@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vernon Allen Fajilan</h1>
+<h1 align="center">Hi 👋, I'm Vernon</h1>
 <h3 align="center">A junior software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vernonallen1&label=Profile%20views&color=0e75b6&style=flat" alt="vernonallen1" /> </p>
