@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vernon Allen Fajilan</h1>
-<h3 align="center">A junior software and web developer</h3>
+<h3 align="center">A junior software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vernonallen1&label=Profile%20views&color=0e75b6&style=flat" alt="vernonallen1" /> </p>
 
@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [Art Commission Management System](https://github.com/vernonallen1/art-commission-management-system)
 
-- 🌱 I’m currently learning **Django, AWS, Tailwind, and other Python Frameworks**
+- 🌱 I’m currently learning **Django, AWS, Tailwind, and advanced JS Frameworks**
 
 - 👯 I’m looking to collaborate on **Web and Mobile Development Projects**
 
-- 🤝 I’m looking for help with **ASP.NET and Laravel**
+- 🤝 I’m looking for help with **PWAs and Offline Accessibility**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vernonallen1](https://github.com/vernonallen1)
 
-- 💬 Ask me about **React, Python, Tailwind, Flutter, etc.**
+- 💬 Ask me about **React, Python, Tailwind, MySQL, etc.**
 
 - 📫 How to reach me **iamvernonallen@gmail.com**
 
